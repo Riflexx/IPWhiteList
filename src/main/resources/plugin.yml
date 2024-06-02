@@ -1,0 +1,7 @@
+name: IPWhiteList
+version: '${project.version}'
+main: ru.utopia.ipwhitelist.Main
+api-version: '1.16'
+
+commands:
+  ipwhitelist:

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IPWhiteList:jar">
+    <output-path>$USER_HOME$/Desktop/test/plugins</output-path>
+    <root id="archive" name="IPWhiteList.jar">
+      <element id="module-output" name="IPWhiteList" />
+    </root>
+  </artifact>
+</component>
